@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cn-999.github.io/jiangsu-zhongxin-fire/sitemap.xml
